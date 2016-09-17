@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<configuration>
+<configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+        <section name="VKHotkeys.Properties.profile3" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        <section name="VKHotkeys.Properties.profile2" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        <section name="VKHotkeys.Properties.profile1" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        <section name="VKHotkeys.profile1" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        <section name="VKHotkeys.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+</configSections>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup><userSettings>
+        <VKHotkeys.Properties.profile3>
+            <setting name="hk_1_playpause" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_2_previous" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_3_next" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_4_add" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_12_fromstart" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_5_repeat" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_6_play_albums" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_7_play_suggestions" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_8_play_popular" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="splash_time" serializeAs="String">
+                <value>1000</value>
+            </setting>
+            <setting name="splash_text" serializeAs="String">
+                <value>ffffffff</value>
+            </setting>
+            <setting name="splash_background" serializeAs="String">
+                <value>ff1e323c</value>
+            </setting>
+            <setting name="splash_border" serializeAs="String">
+                <value>ffffffff</value>
+            </setting>
+            <setting name="splash_visibility" serializeAs="String">
+                <value>65</value>
+            </setting>
+            <setting name="splash_shadow" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="splash_display_for_songs" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="splash_display_for_lock" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="hk_9_download" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_10_show_current_song" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_11_show_all_songs" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_playpause" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_previous" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_next" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_add" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_fromstart" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_repeat" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="login_name" serializeAs="String">
+                <value>wqer</value>
+            </setting>
+            <setting name="login_pas" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="play_albums" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="play_suggestions" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="play_popular" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_download" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="show_current_song" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_show_all_songs" serializeAs="String">
+                <value />
+            </setting>
+        </VKHotkeys.Properties.profile3>
+        <VKHotkeys.Properties.profile2>
+            <setting name="hk_1_playpause" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_2_previous" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_3_next" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_4_add" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_12_fromstart" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_5_repeat" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_6_play_albums" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_7_play_suggestions" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_8_play_popular" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="splash_time" serializeAs="String">
+                <value>1000</value>
+            </setting>
+            <setting name="splash_text" serializeAs="String">
+                <value>ffffffff</value>
+            </setting>
+            <setting name="splash_background" serializeAs="String">
+                <value>ff1e323c</value>
+            </setting>
+            <setting name="splash_border" serializeAs="String">
+                <value>ffffffff</value>
+            </setting>
+            <setting name="splash_visibility" serializeAs="String">
+                <value>65</value>
+            </setting>
+            <setting name="splash_shadow" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="splash_display_for_songs" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="splash_display_for_lock" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="hk_9_download" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_10_show_current_song" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_11_show_all_songs" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_playpause" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_previous" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_next" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_add" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_fromstart" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_repeat" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="login_name" serializeAs="String">
+                <value>qwe</value>
+            </setting>
+            <setting name="login_pas" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="play_albums" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="play_suggestions" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="play_popular" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_download" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="show_current_song" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_show_all_songs" serializeAs="String">
+                <value />
+            </setting>
+        </VKHotkeys.Properties.profile2>
+        <VKHotkeys.Properties.profile1>
+            <setting name="hk_1_playpause" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_2_previous" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_3_next" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_4_add" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_12_fromstart" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_5_repeat" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_6_play_albums" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_7_play_suggestions" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_8_play_popular" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="splash_time" serializeAs="String">
+                <value>1000</value>
+            </setting>
+            <setting name="splash_text" serializeAs="String">
+                <value>ffffffff</value>
+            </setting>
+            <setting name="splash_background" serializeAs="String">
+                <value>ff1e323c</value>
+            </setting>
+            <setting name="splash_border" serializeAs="String">
+                <value>ffffffff</value>
+            </setting>
+            <setting name="splash_visibility" serializeAs="String">
+                <value>65</value>
+            </setting>
+            <setting name="splash_shadow" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="splash_display_for_songs" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="splash_display_for_lock" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="hk_9_download" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_10_show_current_song" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="hk_11_show_all_songs" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="login_name" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="login_pas" serializeAs="String">
+                <value />
+            </setting>
+        </VKHotkeys.Properties.profile1>
+        <VKHotkeys.profile1>
+            <setting name="Name" serializeAs="String">
+                <value>Profile 1</value>
+            </setting>
+        </VKHotkeys.profile1>
+        <VKHotkeys.Properties.Settings>
+            <setting name="last_profile" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="hk_0_global_lock_unlock" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="gen_minimize_totray" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="gen_close_totray" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="unload_on_remote" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="info_port" serializeAs="String">
+                <value>1580</value>
+            </setting>
+        </VKHotkeys.Properties.Settings>
+    </userSettings>
+</configuration>
