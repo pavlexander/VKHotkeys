@@ -217,7 +217,7 @@ namespace VKHotkeys
             this.label53.ForeColor = System.Drawing.Color.White;
             this.label53.Location = new System.Drawing.Point(448, 268);
             this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(74, 25);
+            this.label53.Size = new System.Drawing.Size(73, 25);
             this.label53.TabIndex = 7;
             this.label53.Text = "Repeat:";
             // 
@@ -565,7 +565,7 @@ namespace VKHotkeys
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(4, 377);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 25);
+            this.label1.Size = new System.Drawing.Size(147, 25);
             this.label1.TabIndex = 7;
             this.label1.Text = "Remote Control:";
             // 
@@ -618,7 +618,7 @@ namespace VKHotkeys
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(313, 377);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(246, 25);
+            this.label3.Size = new System.Drawing.Size(269, 25);
             this.label3.TabIndex = 7;
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label3.UseCompatibleTextRendering = true;
